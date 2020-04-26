@@ -8,7 +8,17 @@
 
 <p align="center">
   Desafio desenvolvido durante o <a href="https://rocketseat.com.br/gostack">Bootcamp GoStack</a> da Rocketseat.
+  <br />
+  <br />
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#sobre-o-desafio">Sobre o desafio</a>
 </p>
+
+## Tecnologias
+
+Nesse projeto eu utilizei:
+
+- [Notion](https://notion.so/)
 
 ## Sobre o desafio
 
