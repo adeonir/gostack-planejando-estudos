@@ -34,9 +34,9 @@ Nessa seção eu planejei minhas tarefas diárias, para estar preparado para tod
 
 Aos poucos vou adicionar conteúdo extra, como leituras e podcasts, além de tirar um tempo para criação de conteúdo como posts no meu blog pessoal ou LinkedIn.
 
-## License
+## Licença
 
-This project is under the MIT license.
+Esse projeto está sob a licença MIT.
 
 ---
 
