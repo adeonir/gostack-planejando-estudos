@@ -1,0 +1,8 @@
+{
+  "name": "desafio-1--planejando-estudos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:adeonir/gostack-planejando-estudos.git",
+  "author": "Adeonir Kohl <adeonir@gmail.com>",
+  "license": "MIT"
+}

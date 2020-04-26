@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".assets/logo-gostack.svg" atl="GoStack Bootcamp" />
+  <img src="./assets/logo-gostack.svg" atl="GoStack Bootcamp" />
 </h1>
 
 <h3 align="center">
@@ -31,7 +31,7 @@ Para isso, criei um cronograma que adaptei ao meu tempo e ritmo, definindo qual 
 Nessa seção eu informei horários fixos que irei me dedicar durante minha jornada. Afinal, uma rotina de estudos é o primeiro passo para conseguir atingir os objetivos.
 
 <p align="center">
-  <img src=".assets/schedule-weekly.png" atl="Cronograma semanal" />
+  <img src="./assets/schedule-weekly.png" atl="Cronograma semanal" />
 </p>
 
 ### Cronograma diário
@@ -39,7 +39,7 @@ Nessa seção eu informei horários fixos que irei me dedicar durante minha jorn
 Nessa seção eu planejei minhas tarefas diárias, para estar preparado para todo o conteúdo que será disponibilizado.
 
 <p align="center">
-  <img src=".assets/schedule-daily.png" atl="Cronograma diário" />
+  <img src="./assets/schedule-daily.png" atl="Cronograma diário" />
 </p>
 
 Aos poucos vou adicionar conteúdo extra, como leituras e podcasts, além de tirar um tempo para criação de conteúdo como posts no meu blog pessoal ou LinkedIn.
